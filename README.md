@@ -17,3 +17,7 @@ In a web Server
 ## How To Contribute
 
 Sharing
+
+### Copyright
+
+2014 Git.Training
