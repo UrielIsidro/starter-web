@@ -16,7 +16,7 @@ In a web Server
 
 ## How To Contribute
 
-Sharing
+Please fork this repository
 
 ### Copyright
 
