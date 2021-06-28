@@ -1,7 +1,7 @@
-# Starter Web Repo
+ # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding a line
+Adding a line. Updating for an emergency fix after stashing.
 
 ## Introduction
 
